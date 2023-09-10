@@ -1,0 +1,1903 @@
+
+
+    Careers
+
+What we do
+A look inside our toolbox
+
+Real transformation demands hard work, persistence, and the right tools for the job. For over 20 years, we've redefined craftsmanship and shared our expertise to help our clients succeed.
+Learn more
+Client Impact
+Building things that will last
+
+See how our clients have inspired us to make a real difference in business and communities around the world.
+CASE STUDY
+Global telco tapped UST to deploy virtual data center—cut costs 30%
+
+With an urgent need to address increasing data center costs as well as integration issues, UST designed and implemented a VDC to replace the company’s traditional data centers. The solution provided a private cloud environment, resolved the integration issues, and cut infrastructure costs by 30%.
+Case Study
+Global telco cut IT costs by 20% with enterprise-wide, strategic managed services agreement
+
+By providing holistic managed services leadership and guidance, UST helped an international telecom company transform its IT operations, simplify and consolidate its technology footprint, and cut expenses by 20%.
+Case study
+UST helped global telco resolve integration issues with CSB, improved on-time billing by 30%
+
+The company wanted to address the integration issues which led to service and billing issues for end-user customers.
+Case study
+UST helped large telco annually cut costs by 20% with global video deployment network
+
+An international telecom company wanted to roll out global video services, starting with four Latin American countries.
+Malaysia Team at Infinity Labs
+Who we are
+Digital is our DNA
+
+We’re listeners and leaders, working together to take on tomorrow’s challenges.
+Learn more
+news & events
+In and around UST
+
+Learn more about what's going on with our company and our clients - and what's coming soon.
+UST Newsroom
+Global
+UST and Quicklizard Partner to Deliver Dynamic Pricing Optimization for Retailers
+5 Sep, 20233 min
+UST and Quicklizard Partner to Deliver Dynamic Pricing Optimization for Retailers
+Read more
+Global
+UST Expands Offerings in the Telecom Space with Acquisition of MobileComm
+29 Aug, 20233 min
+UST Expands Offerings in the Telecom Space with Acquisition of MobileComm
+Read more
+Global
+UST Achieves Impressive Agility Rating and Earns Coveted Certified Agile Organization™ Status
+24 Aug, 20233 min
+UST Achieves Impressive Agility Rating and Earns Coveted Certified Agile Organization™ Status
+Read more
+our approach
+Your journey is our journey
+
+Discover how we can help your business design and chart the best path forward.
+Learn more
+Business Transformation Journey
+UST logo image
+Stay in the know
+Sign up to hear more about what we're thinking and where you can find us.
+
+    What we do
+    Industries
+    Our approach
+    Innovation ecosystem
+
+    Locations
+    Americas
+    EMEA
+    APAC
+    View all
+
+    About us
+    Who we are
+    News
+    Events
+    Social commitment
+    Leadership team
+
+    Careers
+    Explore opportunities
+    Legal Notice
+    Contact us
+
+We use cookies to provide you with the best experience of this website. To accept cookies continues browsing as normal or read how to decline them in our cookie policy. Please also see our privacy policy.
+
+
+
+    Careers
+
+    Overview
+    Why UST?
+    OUR SOLUTIONS
+    key resources
+
+    Overview
+    Why UST?
+    OUR SOLUTIONS
+    key resources
+
+Overview
+Harness the power of cloud to accelerate business outcomes from migration to modernization
+
+Your journey is our journey. Our UST cloud experts work together with you, co-ideating your cloud strategy, positioning your organization to succeed today and tomorrow. UST has a suite of cloud solutions and services to accelerate your cloud transformation to quickly produce business value.
+
+
+
+Our cloud ecosystem is a web of platforms, accelerators, methodologies, resources, and innovation labs that work together to reimagine your business, increase speed to market and apply novel approaches to your challenges. We have a deep commitment to collaboration and a powerful network of inspiring experts.
+UST Smart City Tansformation Solutions
+Why UST?
+Our credentials
+15+
+
+Years of cloud infrastructure expertise
+10K+
+
+Workloads migrated to hybrid cloud
+2K+
+
+Cloud-certified workforce
+Our Solutions
+Your cloud transformation should be as unique as your business
+
+Migrate to the cloud and modernize applications with an intent-driven strategy. Get your questions answered by scheduling a 30 minute cloud consultation. We’ll give you a cloud expert who has seen it all and can clear the air on cloud for your business.
+Cloud Infrastructure Solutions
+Application Modernization
+Cloud FinOps
+Development Acceleration
+Strategic Alliance Partners
+Meet the Experts
+Cloud migration and operation management
+
+Transform seamlessly, optimize performance, and do more with less
+
+
+
+    Automated workload migration
+    Single view integrated multi-cloud management
+    Standardization, cost optimization, and compliance
+    Security
+
+Learn more
+API and Microservices-centric native development
+
+Design new, refactor, re-engineer, refresh, replace or retire your applications
+
+
+
+    Containerization and Managed Kubernetes
+    Microservices-centric design
+    Single site reliability engineering
+    Legacy application rationalization
+
+Learn more
+Cloud FinOps Transformation
+
+UST’s FinOps Transformation practice ties business goals to cloud architecture, development processes, operations, and governance policies.
+
+    Assessment: The UST FinOps Rapid Assessment identifies opportunities to reduce cloud spend waste and creates the foundation for infrastructure governance and financial control.
+    Roadmap: Our FinOps experts develop a FinOps transformation roadmap to create the visibility and predictability required to manage your cloud spend successfully.
+    Execution: We will help you implement a FinOps operating model across your cloud ecosystem.
+
+Learn more
+Platforms and reusable components to accelerate application development
+
+Develop and deliver faster, smarter, with more visibility.
+
+
+
+    Application delivery acceleration and transparency
+    Analytics workload management
+    Seamless deployment, metering, and monitoring
+    DevOps, DevSecOps, SRE
+
+Learn more
+Cloud infrastructure expertise with all major cloud vendors
+
+Making the right choices – private, public and hybrid clouds
+
+
+
+We are cloud agnostic but also have strong partnerships with AWS, Azure, and GCP to enable seamless digital transformation. Adept with cloud native approaches we work with you to customize and implement the cloud solution that best fits your needs.
+Learn more
+Whatever your challenge, our cloud experts have you covered
+
+Design the right cloud strategy, application, and operating model with UST.
+Learn more
+UST Digital Transformation Strategy Consultant
+Technology magazine
+UST – delivering innovative digital transformation solutions
+
+UST uses technology to engineer a better future, helping the world’s best companies succeed through digital transformation with disruptive solutions
+Learn more
+Key Resources
+Learn more about how UST can help with your cloud transformation
+Insights
+Predictions 2023: Cloud computing
+
+In this report, Forrester discusses how economic uncertainty, cloud-native technology, and demands for data sovereignty will reshape the cloud in 2023. Cloud financial operations (FinOps) will take center stage, and businesses will move heavily into cloud-native infrastructure for a growing number of workloads.
+Download
+Leading asset management firm successfully migrates applications from external data center to Azure cloud
+
+Faster development cycles, confidence in cloud migration
+Download
+Debunking the five most prevalent cloud myths
+
+Here, we are sharing five of the biggest cloud myths and offering rebuttals with the facts - so you can be armed with the right information to move your business forward.
+UST logo image
+Stay in the know
+Sign up to hear more about what we're thinking and where you can find us.
+
+    What we do
+    Industries
+    Our approach
+    Innovation ecosystem
+
+    Locations
+    Americas
+    EMEA
+    APAC
+    View all
+
+    About us
+    Who we are
+    News
+    Events
+    Social commitment
+    Leadership team
+
+    Careers
+    Explore opportunities
+    Legal Notice
+    Contact us
+
+We use cookies to provide you with the best experience of this website. To accept cookies continues browsing as normal or read how to decline them in our cookie policy. Please also see our privacy policy.
+
+
+
+    Careers
+
+UST logo image
+
+    Overview
+    Expertise
+    Client Impact
+    Our Approach
+
+    Overview
+    Expertise
+    Client Impact
+    Our Approach
+
+Overview
+Peak performance, powered by data
+
+To build resilience, we help clients ingest, collect, curate and deliver essential business data. Using a holistic, integrated approach, we optimize the journey from data intake to actionable insight by combining our consulting, data engineering and advanced analytics capabilities.
+UST Artificial Intelligence Solutions
+EXPERTISE
+Redefine intelligence
+
+From data intake and engineering to algorithms and modeling, we offer a complete set of tools and services that draw valuable, actionable insights from the most complex data.
+Advanced Analytics — Artificial Intelligence & Machine Learning
+Privacy and Compliance
+Data — Engineering for Accelerating Actionable Insights
+
+Build a smarter business
+
+With a comprehensive platform view of the advanced analytics lifecycle across the enterprise, we offer a variety of advanced algorithmic accelerators—with capabilities ranging from intelligent process automation to natural language processing to machine comprehension and algorithmic explainability.
+
+Data privacy made simple
+
+UST PrivacyProof’s cloud-based privacy solutions and services transform and streamline your privacy program so you can focus on strategic planning, optimizing value, and minimizing risk. Services include: NIST Privacy Maturity Assessment, AI Data Discovery & Classification, Real-Time Automated Privacy Compliance, and DSAR Case Management.
+
+Amplify productivity
+
+We cover all aspects of data management to accelerate your business results—including consulting on your data architecture, platform selection and roadmaps. Enabling delivery of analytics and insights. And generating meaningful insights through advanced analytics.
+UST IQ Platform
+Client Impact
+Creating exponential growth
+
+Using custom-built advanced analytics tools, we’ve partnered with clients around the world to reveal the hidden power of data, and unlock business potential.
+View more work
+Conceptual coffee flatlay
+Case Study
+Enabling data-driven decision-making
+How a large beverage manufacturer improved promotion management
+Our approach
+A smarter collaboration
+
+When we work with our clients, it’s about more than just a contract—it’s about a relationship built on understanding your business goals. Uncovering your real needs. And advancing your data capabilities with the perfect blend of our products, platforms and creative ingenuity.
+See our approach
+Data Analytics Innovative Approach
+Key Resources
+INSIGHTS
+Simplify and streamline data migration with metadata-driven data interface (MDDI) from UST
+Whitepaper
+Data migration with metadata-driven data interface (MDDI)
+Insights
+Designing future retail, modernizing Item Master
+UST logo image
+Stay in the know
+Sign up to hear more about what we're thinking and where you can find us.
+
+    What we do
+    Industries
+    Our approach
+    Innovation ecosystem
+
+    Locations
+    Americas
+    EMEA
+    APAC
+    View all
+
+    About us
+    Who we are
+    News
+    Events
+    Social commitment
+    Leadership team
+
+    Careers
+    Explore opportunities
+    Legal Notice
+    Contact us
+
+We use cookies to provide you with the best experience of this website. To accept cookies continues browsing as normal or read how to decline them in our cookie policy. Please also see our privacy policy.
+
+
+
+    Careers
+
+UST logo image
+
+    Security Services
+    Services & Solutions
+    Insights & trends
+
+    Security Services
+    Services & Solutions
+    Insights & trends
+
+UST Cyber Security Solutions
+Security Services
+Building a cyber-resilient business shouldn’t hinder digital innovation.
+
+The burden of security in an ever-changing threat landscape has become one of the greatest inhibitors to the speed and quality of digital initiatives. Threats are sophisticated, dynamic, and invisible. The attack surface is seemingly infinite in a rapidly expanding multi-cloud ecosystem.
+Services & Solutions
+Our solutions, customized for you
+
+We protect your business with our comprehensive portfolio of consulting, design engineering, implementation, and managed security services so you can focus on business growth. With design, implementation, and support services, our security experts build comprehensive defense in depth security solutions at enterprise scale.
+MXDR
+Architecture & technology roadmap
+Cloud security posture management
+Application security
+Use case management
+Zero trust
+
+CyberProof MXDR services empower global enterprises to efficiently anticipate, adapt, and respond to cyber threats in cloud-native environments. The CyberProof Defense Center reduces the impact of attacks by detecting & responding to validated incidents quickly across your IT estate. Log data from diverse tooling such as EDR, SIEM, and OT/IoT is growing exponentially. Cyberproof collects and centralizes visibility of log data to improve analytics, insights, and responsiveness. We’ll also replace siloed legacy security tools, optimize processes, and significantly reduce the costs of log data storage.
+Learn more
+
+The threat landscape continually evolves, and so should your security architecture and technologies. The SOC is the heartbeat of a resilient business, providing insights learned from the 24x7x365 fight against bad actors. Our CyberProof security experts assess and reassess your environment to inform your security roadmap.  We aim to improve cyber resiliency and identify elements in your unique security stack that no longer provide value and can therefore be decommissioned to save costs.
+
+CyberProof security services safeguard IaaS, PaaS, and SaaS infrastructure across the enterprise IT ecosystem. We centralize monitoring and management, providing visibility across clouds and cloud-native architectures such as microservices, Kubernetes clusters, and containers. Real-time assessments identify vulnerabilities and misconfigurations, and remediation is automatically incorporated into operational policies to continuously improve your cloud security posture.
+
+Security shouldn’t be a roadblock for deployment, and CyberProof helps application teams integrate security in every phase of the development lifecycle. After all, shifting security left means no surprises on the right. Code analysis, security testing, and orchestrated vulnerability assessments provide a rich context for prioritizing risks and determining appropriate remediation.
+
+
+    Cloud-native DevSecOps implementation
+    Container and Kubernetes managed services
+    Application and API security managed services
+    Vulnerability assessment & penetration testing
+    Static and dynamic application testing services
+
+Today’s cyber defense is no longer just about building detection rules. Process automation in a dynamic cloud-native security architecture requires bi-directional API integrations to an expanding list of log data sources, regularly optimized coverage against the MITRE ATT&CK framework, and detection logic that is customized to your top business risks. Our Use Case Engineering service continually identifies and fills gaps in threat detection and response workflows as your landscape evolves.
+Learn more
+
+CyberProof’s data and identity security services enforce zero trust principles to preserve the integrity of the data value chain. Compliance services ensure organizations meet global regulatory standards such as GDPR, HIPAA, and SOX. Centralized administration and control of electronic and digital identities reduce risk anywhere resources are located, on-premises and across clouds.
+
+
+    IAM, PAM, and MFA managed services
+    Data security managed services
+    Data protection such as encryption and masking
+    Data loss prevention
+    Data classification, compliance, and governance
+
+Client Impact
+The art of cyber security
+
+Learn how we’re taking cyber security to the next level, solving real-world problems with real-time tools and processes.
+View our impact
+OUR THINKING
+Safer every day
+
+The best SOC teams partner with expert cyber security professionals to expand their capabilities and keep pace with emerging threats.
+View more insights
+UST logo image
+Stay in the know
+Sign up to hear more about what we're thinking and where you can find us.
+
+    What we do
+    Industries
+    Our approach
+    Innovation ecosystem
+
+    Locations
+    Americas
+    EMEA
+    APAC
+    View all
+
+    About us
+    Who we are
+    News
+    Events
+    Social commitment
+    Leadership team
+
+    Careers
+    Explore opportunities
+    Legal Notice
+    Contact us
+
+We use cookies to provide you with the best experience of this website. To accept cookies continues browsing as normal or read how to decline them in our cookie policy. Please also see our privacy policy.
+
+
+
+    Careers
+
+Overview
+The Art of the Possible
+
+At UST, our work is powered by a nimble, highly tuned, organic, digital innovation assurance approach built from diverse experiences around the world, intense collaboration, and intuitive, scalable techniques and methods.
+
+
+
+We apply an empathy-first design thinking philosophy to formulate solutions customized to our clients’ needs and schedules. UST Innovation Assurance takes the art of the possible and makes it a reality by combining innovative thinking with a methodical approach. It paves the way for us to identify clients' problem areas and design, develop, and build some of the world’s most advanced digital products in as few as eight weeks.
+UST Innovation at a glance
+Our innovation ecosystem supercharges your vision
+$30M
+In value generated
+8+
+Global innovation labs and garages
+300+
+Startup partnerships
+Building a Culture of Innovation
+Play video
+Philosophy of Innovation
+
+Innovation occurs at the intersection of a business problem and powerful insight. UST Innovation’s end-to-end model helps clients attain meaningful solution ideation.
+UST Innovation Components
+Empathy-First Experience Design
+
+We use techniques that help us understand the needs, habits, motivations, and emotions of the people for whom we are designing.
+UST Innovation Pods
+
+An innovation team dedicated to developing minimum viable concepts and then iterating and improving the selected concept(s).
+UST Innovation Squads
+
+Squads are typically used when our client is trying to categorize and prioritize a number of problems.
+UST Innovation Platoons
+
+Platoons help us to validate the commercial viability of a product or solution, then quickly build and deploy it for our clients.
+
+
+UST Innovation Labs
+UST Innovation Labs
+
+Enables our innovation team, along with an ecosystem of academics, startups and partners to manage ideas, build prototypes, and conduct and document experiments.
+UST Innovation Garages
+
+We use garages to accelerate digital product development that extends beyond software or require bleeding-edge hardware to execute experiments.
+UST Waggle
+
+Our end-to-end innovation platform and digital portal leverage our methodology to guide clients through the problem-solving journey. Clients may also license the platform and continue the journey independently at their own pace.
+UST Patent Program
+
+Inventions are the bedrock of innovation, and patents are both a tool for promoting digital innovation and a useful way to measure it.
+Learn more
+Growth Partnerships Program
+Growth Partnerships Program
+
+We partner with startups and other companies that have already proven themselves and are ready to scale.
+Learn more
+Key Resources
+people
+Let's work together
+
+Learn how UST Innovation can benefit your team.
+Contact us
+UST logo image
+Stay in the know
+Sign up to hear more about what we're thinking and where you can find us.
+
+    What we do
+    Industries
+    Our approach
+    Innovation ecosystem
+
+    Locations
+    Americas
+    EMEA
+    APAC
+    View all
+
+    About us
+    Who we are
+    News
+    Events
+    Social commitment
+    Leadership team
+
+    Careers
+    Explore opportunities
+    Legal Notice
+    Contact us
+
+We use cookies to provide you with the best experience of this website. To accept cookies continues browsing as normal or read how to decline them in our cookie policy. Please also see our privacy policy.
+
+
+
+    Careers
+
+UST logo image
+
+    Overview
+    Expertise
+    Insights & trends
+    Our Approach
+
+    Overview
+    Expertise
+    Insights & trends
+    Our Approach
+
+Overview
+Focused solutions for business users and IT developers
+
+ All of UST’s capabilities and learnings have been distilled into two platforms to enhance productivity—one is focused on business users, and the other on IT.
+UST Business Automation Services
+Products & platforms
+Tools to transform
+
+Our flexible, proprietary platforms integrate seamlessly with your existing systems—eliminating disruption, reducing costs and accelerating results.
+UST SmartOps
+UST PACE
+Your business, reimagined
+
+Using intelligent process automation, cognitive RPA and cloud automation, we streamline your operations, increase your output, lower your costs and improve customer satisfaction—often within just 8-12 weeks. From processing invoices to onboarding new team members to tracking goods in the supply chain, we help you make easy work of repetitive tasks, so your employees can focus on what’s important.
+Learn more
+A full-service framework for technology acceleration
+
+Struggling to balance speed and risk? Our PACE framework reduces vulnerabilities while increasing the pace of deployment and improving quality for both developers and data scientists. 
+Learn more
+Client Impact
+A rapid road to business success
+
+From complex corporations to small businesses, we’ve helped clients of all sizes automate their processes and reduce operational costs by up to 70%.
+View more work
+Our Thinking
+Expediting advances in AI
+
+Your industry moves fast, but we move faster—setting the pace with intelligent, sophisticated technology.
+View more insights
+Our approach
+Partners in technology, partners in growth 
+
+When we accompany you on your automation journey, it’s not just about the technical requirements. We work in lockstep with you from start to finish to find the best path forward. 
+See our approach
+UST Clients Automation Journey
+UST logo image
+Stay in the know
+Sign up to hear more about what we're thinking and where you can find us.
+
+    What we do
+    Industries
+    Our approach
+    Innovation ecosystem
+
+    Locations
+    Americas
+    EMEA
+    APAC
+    View all
+
+    About us
+    Who we are
+    News
+    Events
+    Social commitment
+    Leadership team
+
+    Careers
+    Explore opportunities
+    Legal Notice
+    Contact us
+
+We use cookies to provide you with the best experience of this website. To accept cookies continues browsing as normal or read how to decline them in our cookie policy. Please also see our privacy policy.
+
+
+
+    Careers
+
+    Overview
+    Areas of expertise
+    Insights & trends
+    Client Impact
+
+What we do/Experience Design
+User Experience Design Solutions
+Design for lasting impact
+We create rich experiences that elevate your business, while disrupting the boundaries of what’s possible.
+Women Working Out
+
+    Overview
+    Areas of expertise
+    Insights & trends
+    Client Impact
+
+UST Team Strategies for Business Challenges
+Overview
+Create change that stands the test of time
+
+We use the power of design thinking to deconstruct your biggest business challenges, develop visionary strategies and inspire fresh approaches to sustainable growth.
+Areas of expertise
+Strategy and technology with a human touch
+
+From reimagining customer interactions to discovering creative ways to deliver services, we work with you to put people at the heart of every product, brand and business strategy.
+CX Strategy, Advisory & Consulting
+We spark innovation and turn pain points into positive interactions.
+Implementation and Maintenance
+We architect, implement and support the right experience stack to make the biggest impact.
+Experience Design
+We’ll help you create experience strategies across channels through a nimble process
+CX Management
+The intersection of design, art, and technology to enhance your customer lifecycle.
+Marketing
+We define and manage tailored digital strategies across channels.
+Commerce
+We create seamless and personalized interactions across touchpoints of the buying journey.
+UST specialists
+Human-centered tech. Trend-setting design.
+
+PiktorLabs
+
+At the heart of our product innovation lab lies user-centered problem solving, future-focused experimentation and a modular approach to product design. The result? Ownable products and experiences that deliver significant business impact.
+Learn more
+
+Moonraft Innovation Labs
+
+We bring together design, art and technology to create differentiated and impactful digital experiences that drive business outcomes.
+Learn more
+
+Round Feather
+
+We use the happiness index of users to develop end-to-end design solutions that create lasting value for businesses.
+Learn more
+UX Design Consulting Company
+Our thinking
+A fresh take on design
+
+Our proprietary processes and vibrant culture underpin how we design products, experiences and strategies. UST’s unique way of working has always been deeply collaborative, and our technological expertise has enriched what we can build for clients. When we apply the power of design, technology and a human-first mindset to your business challenges, we do it together, all while tapping you into the powerful partnerships only we can provide.
+See our approach
+Client Impact
+Getting to ‘what’ by starting with ‘why’
+
+We’ve helped business leaders around the world realize their vision by immersing ourselves in the human experience.
+View more work
+Case Study
+Driving Customer Satisfaction through Hyper Personalized Insights
+How one of the world’s largest financial services companies reconnected with its investors
+Case Study
+A digital makeover for hospitality
+A leading hotel chain looked to increase conversions, revamped their digital experience
+Case Study
+Transforming Users into Designers
+Multinational Paint Manufacturer wants to enhance experience, transforms customer digital journey
+Case Study
+Banking made personal
+Digital banking , that understands you
+Case Study
+Your car in your pocket
+Telematic app for India's first electric car
+Our clients
+
+Some of the world’s biggest companies have trusted us to help engineer the future of their business. Here are some of the best.
+Morgan Stanley Logo
+NetApp Logo
+Schroder Logo
+Siemens Logo
+UST Woman Recording Poadcast
+Our industries
+Shaping experiences across markets
+
+Our work is grounded in product design, innovation and creative thinking, with a broad and deep domain expertise that we use to solve your unique challenges from every angle.
+Financial Services
+Healthcare
+Retail & CPG
+Manufacturing
+Technology, Media & Telecom
+Public Sector
+Semiconductor
+Our Thinking
+Get the full picture
+
+Our experts are gaining an edge on tomorrow by exploring the impact creative problem solving is having on businesses and industries today.
+View more insights
+UST logo image
+Stay in the know
+Sign up to hear more about what we're thinking and where you can find us.
+
+    What we do
+    Industries
+    Our approach
+    Innovation ecosystem
+
+    Locations
+    Americas
+    EMEA
+    APAC
+    View all
+
+    About us
+    Who we are
+    News
+    Events
+    Social commitment
+    Leadership team
+
+    Careers
+    Explore opportunities
+    Legal Notice
+    Contact us
+
+We use cookies to provide you with the best experience of this website. To accept cookies continues browsing as normal or read how to decline them in our cookie policy. Please also see our privacy policy.
+
+
+
+    Careers
+
+UST logo image
+
+    Overview
+    Expertise
+    Insights & trends
+    Our Approach
+
+What we do/Digital Transformation/Agile Transformation
+AGILE TRANSFORMATION SERVICES
+Up your organizational AQ
+Future-fit your business with agile frameworks that don’t just change how you work, but what you can achieve.
+AGILE TRANSFORMATION SERVICES
+
+    Overview
+    Expertise
+    Insights & trends
+    Our Approach
+
+Overview
+Light on your feet, heavy on outcomes
+
+The “new normal” is a sea of continual change and increasing volatility. In today’s adapt-or-else world of business, you need more than speed. You need a guide who listens—and an outcome-based approach that can respond to rapidly changing market dynamics, customer demands and industry standards.
+Agile Transformation Product
+EXPERTISE
+A relentless focus on value
+
+From products and processes to people, we’ll help you remove the barriers that keep you from becoming the adaptive, customer-centric and high-impact business you want to be.
+Enterprise and Business Agility
+Culture & Change Management
+Agile Delivery
+Re-organize, re-align and optimize
+
+Unleash the power of agility principles across your operations. From human resources and legal to risk management and governance, our coaches will help you reshape the behaviors, practices and structures of your enterprise to better align with your most important outcomes and priorities.
+Bringing it all together
+
+Building a sustainable and highly adaptive business takes an all-hands-on-deck effort, with all oars rowing in the same direction. We’ll help bring your people together, empowering them to solve the right problems in the right way.
+Next-gen software development
+
+Mature agile delivery is not just about using Scrum or Kanban to build software—it’s an organic process of continuous outcome optimization. With a deep understanding of the dynamics, intricacies and constraints of lean-agile and CI/CD practices, we can drive extraordinary results for your development teams.
+Client Impact
+The freedom to deliver faster
+
+Smart change feels powerfully liberating. See how we’ve given clients the freedom to learn, experiment and grow.
+View more work
+Our thinking
+Making the move to meaningful
+
+We’re paving the way for our clients to do more of what matters.
+View more insights
+Our approach
+The speed of listening
+
+When it comes to agile transformation, we start with our two best tools: our ears. Then we work side by side to introduce new levels of speed, efficiency and flexibility into the fabric of your business.
+See our approach
+Agile Transfomations Innovative Concepts
+UST logo image
+Stay in the know
+Sign up to hear more about what we're thinking and where you can find us.
+
+    What we do
+    Industries
+    Our approach
+    Innovation ecosystem
+
+    Locations
+    Americas
+    EMEA
+    APAC
+    View all
+
+    About us
+    Who we are
+    News
+    Events
+    Social commitment
+    Leadership team
+
+    Careers
+    Explore opportunities
+    Legal Notice
+    Contact us
+
+We use cookies to provide you with the best experience of this website. To accept cookies continues browsing as normal or read how to decline them in our cookie policy. Please also see our privacy policy.
+
+
+
+    Careers
+
+    Overview
+    Our work
+
+What we do/Platforms
+Products and Platform
+Build the business of tomorrow with assured speed
+We deliver swift, sustainable solutions, so you can empower your people, improve your processes and transform your technology in a safe, secure environment.
+Product Based Solutions
+
+    Overview
+    Our work
+
+Overview
+We provide the context. You focus on the core.
+
+When tackling any business challenge, it’s imperative to solve for the right problem in the right way—and always with the best tools for the job. Our products and platforms will help you convert big ideas into innovative solutions that are quick and cost-effective.
+UST Product Based Solutions
+Platform highlights
+UST SmartOps
+UST IQ
+UST PACE
+UST HealthProof
+CyberProof
+
+Your business, reimagined
+
+Our platform intelligently automates processes to streamline business operations, resulting in improved efficiency and greater profitability.
+Learn more
+
+From Ingestion to insight
+
+UST IQTM provides a comprehensive modular platform designed to manage every aspect of the data engineering pipeline from ingestion to insight.
+Learn more
+
+Welcome to the workplace of the future
+
+UST PACE is a collaborative, accelerated transformation factory for both application developers and data scientists. With customizable, plug-and-play functionality and an intuitive interface, the platform offers users a common, integrated experience of development accelerators, CI/CD templates, test automation suites and project status dashboards. Your teams can rapidly build, and then deploy to any cloud, on-premises or hybrid environment, with any software—in just one click.
+Learn more
+
+Your health plan’s new best friend
+
+UST HealthProof platforms are customizable. They're cost effective. They deploy quickly. And most importantly, they scale. Our solutions solve complex operational challenges across all lines of business: Medicare, Medicaid, Commercial, Individual, and Self-funded employer health plans. We streamline your health plan operations so you can focus on what matters most - the health of your members.
+Learn more
+
+CyberProof is a security services company that intelligently manages your organization’s incident detection and response.
+
+Smarter detection and response. CyberProof aims to give complete transparency and dramatically reduces the cost and time needed to respond to security threats and minimize business impact.
+Learn more
+Products and accelerators
+
+We breathe technology and stay on top of the applications that are actively shaping the world. When you work with us, we’ll guide you to understand what lies at the heart of your challenge, before digging into our toolbox to find—or create—what’s needed to generate impactful, scalable change.
+Concept to Camera
+The virtual studio platform for development, deal tracking, contracts, talent, and product.
+Electronic Shelf Label (ESL)
+In-store intelligent digital displays to improve retail conversion rates.
+iDEC
+The IoT Middleware processing and notifications engine for Big Data.
+Innovation Hub
+Unique innovation assurance method to determine viable solutions in weeks.
+MyDoc
+Data-driven enterprise platform for quality, trusted everyday health services.
+Senze
+Interactive dashboards and reports that deliver powerful digital insights.
+Starfair
+Helps users understand the decisions of ML models, exposing biases and model weak spots.
+UST Cloud Fortuna
+Application catalog provides ready application provisioning and management.
+Learn more
+UST Cloud Manager
+Platform for effective governance, cost control and automated operations across any cloud.
+Learn more
+UST Cloud Optim
+Hybrid-cloud infrastructure cost optimization solution.
+UST Cloud Velocity
+Cloud migration solution enabling organizations to move rapidly and securely to the cloud.
+Learn more
+UST Flex iOM
+Intelligent Order Management platform for product allocation planning.
+Learn more
+UST NaviSafe
+End-to-end connected IOT platform enables improved safety and security management.
+UST NoSkript
+An AI-powered continuous testing platform that accelerates software delivery.
+UST Omni
+The integrated global supply chain visibility platform enabling responsive orchestration.
+Learn more
+UST Optim
+Enable immediate infrastructure cost optimization in your cloud ecosystem.
+Learn more
+UST PrivacyProof
+The end to end privacy compliance solution.
+UST Pneuron
+The low-code platform that integrates and orchestrates existing assets.
+UST Walk In, Walk Out
+Frictionless shopping experience enabling customers to simply walk in, shop and walk out.
+VERA commerce
+The AI-powered e-commerce platform for retailers.
+Xpresso.AI
+Streamlines the AI application life cycle by simplifying tasks through automation.
+Our work
+Technology for good
+
+See how our products and platforms have helped our clients’ business processes run with ease, given their customers more confidence and enabled their talent to work at their peak.  
+View more work
+Case Study
+Optimizing IT operations
+How a leading retailer automated their IT helpdesk operations
+UST logo image
+Stay in the know
+Sign up to hear more about what we're thinking and where you can find us.
+
+    What we do
+    Industries
+    Our approach
+    Innovation ecosystem
+
+    Locations
+    Americas
+    EMEA
+    APAC
+    View all
+
+    About us
+    Who we are
+    News
+    Events
+    Social commitment
+    Leadership team
+
+    Careers
+    Explore opportunities
+    Legal Notice
+    Contact us
+
+We use cookies to provide you with the best experience of this website. To accept cookies continues browsing as normal or read how to decline them in our cookie policy. Please also see our privacy policy.
+
+
+
+    Careers
+
+    UST custom logo image
+    Overview
+    Our work
+    OUR EXPERTISE
+    Our Platforms
+    Join our Team
+
+    UST custom logo image
+    Overview
+    Our work
+    OUR EXPERTISE
+    Our Platforms
+    Join our Team
+
+Better together: UST HealthProof + Advantasure
+better-together
+
+We are excited to announce the UST HealthProof acquisition of Advantasure, a technology solutions company for government-sponsored health plans. Both UST HealthProof and Advantasure share a mission to revolutionize U.S. healthcare by reducing health plan administrative costs and providing a health tech ecosystem that makes the experience of healthcare better for everyone. We are look forward to new collaboration opportunities and technical capabilities.
+
+
+
+Learn more about Advantasure and the acquisition.
+What We Do
+Your health plan’s new best friend
+
+UST HealthProof platforms are customizable. They're cost effective. They deploy quickly. And most importantly, they scale. Our solutions solve complex operational challenges across all lines of business: Medicare, Medicaid, Commercial, Individual, and Self-funded employer health plans. We streamline your health plan operations so you can focus on what matters most - the health of your members.
+Our work
+Our proof
+
+UST HealthProof is shaping the future of healthcare. Our work has made healthcare more affordable, helped our plans operate more efficiently and created real impact for patients.
+
+Along with HealthEdge, we're providing gateway health with end-to-end core admin support.
+Learn more
+We're shaping the future of healthcare by
+
+Lowering the total cost of care and creating
+better healthcare experiences for members + providers
+
+
+Creating a digital, core admin ecosystem where
+
+patient and provider touchpoints have less friction
+
+
+Delivering faster, more efficient core admin processes
+
+for predictable operating expenses at a lower cost
+Our expertise
+UST HealthProof key features and benefits
+icon
+
+Core admin platform solutions
+
+A compliant platform with operational agility at a stable and predictable cost.
+icon
+
+Business process as a service
+
+An outcome based end-to-end service with total transparency and low total cost of ownership.
+icon
+The pivot to value-based partnerships
+
+Health plans can now realize a variety of outcome-driven contracts with providers and corresponding benefit programs for members.
+icon
+Cloud-based, modern ecosystem
+
+An advantage technology that is secure and scalable to meet the needs of today (and tomorrow).
+icon
+
+HealthEdge
+
+Harness the power of HealthEdge with UST HealthProof. We're the #1 implementation partner for HealthEdge.
+icon
+
+Advalent
+
+Our software solutions for enrollment, encounters, workflow, quality and digital experience integrate seamlessly with HealthRules Payor to support efficient end-to-end operations and reporting.
+icon
+Processes built for compliance
+
+Compliant processes fueled by powerful data insights, automations and expert people.
+icon
+
+Highly specialized staff
+
+Our focused specialists are 100% dedicated to health insurance operations.
+icon
+
+We build for outcomes
+
+Our highly customizable and configuable offerings are designed for your outcomes and built to your exact specs.
+Our platforms
+Future-proof your plan with UST HealthProof platforms and services
+
+Our outcome-based approach is proven to offer unmatched speed, flexibility and operational efficiency. It enables you to adapt quickly to changes in the industry and evolve member engagement – all with less risk and lower costs.
+CAPS
+BPaaS
+Enrollment & Billing
+Risk Adjustment
+Clinical Quality
+Encounter Submission
+Core admin platform solutions
+
+UST HealthProof delivers a compliant platform for personalized care at a fixed cost. Our core admin platform solutions (CAPS) are modular, customizable and flexible. They adapt to the needs of any plan, in any line of business. We design and build our solutions to meet your goals, and together, we build for outcomes.
+Learn more
+Business process as a service
+
+UST HealthProof core admin BPaaS helps plans realize the full value of their platform investment sooner. Time and time again, we transform business outcomes with our healthcare payer BPaaS. It's built on a modern ecosystem, runs on proven processes, and it's managed by expert people.
+Learn more
+Enrollment & billing
+
+Automate Medicare eligibility and premium revenue transactions, load rosters from employer groups, state and federal entities for Commercial, Exchange and Medicaid, and generate correspondence—all while maintaining compliance, decreasing costs, and improving member retention.
+
+
+Key Features - Billing
+
+
+    Automated Invoicing
+    Easily process payment
+    Reconcile and resolve disputes
+    Manage delinquencies
+    Enhanced reporting
+
+
+
+Key Features – Enrollment
+
+
+    Rules-based enrollment
+    Exception workflow routing
+    Self-service tools
+     Real-time data validation
+
+Risk adjustment
+
+Improve risk score and payment accuracy through suspect HCC analytics and deploy operational activities to close gaps in care with Advalent Risk360TM.
+
+
+Key Benefits
+
+    High predictive accuracy means better ROI on your risk adjustment program
+    Better integration with quality and population health programs
+    Improved network efficiencies
+    Analytic models help identify value-based reimbursement strategies that improve risk-adjusted revenues
+    Performance reports drive continuous clinical and financial improvements
+
+Learn more
+Clinical quality
+
+Close gaps in care and improve quality and compliance through NCQA certified HEDIS and STARS measurement and advanced analytics with Advalent Quality360TM.
+
+
+Key Features
+
+    All available administrative and clinical data sources connect
+    Drive quality improvement programs
+    Create actionable list of members and providers to support quality improvements
+    Identify opportunities to deploy the right provider collaboration programs
+    Out-of-the-box provider attribution and provider performance scoring algorithms
+
+Learn more
+Encounter submission
+
+Seamlessly submit and easily correct errors for all lines of business – RAPS, EDPS, EDGE, APCD & Medicaid.
+
+
+Key Features
+
+
+
+    Data Management designed to support the new FHIR interoperability for EMRs
+    Error Administration supports pre and post encounter, individual, mass and automated error correction
+    Business Intelligence with pre-configured reports, real-time data visualizations and production-ready dashboards
+    Risk Model Flexibility supports CMS-HCC, CDPS, ACG and 3M CRG Risk
+
+at a glance
+UST HealthProof by the numbers
+3M
+
+Members Served
+#1
+
+HealthEdge Implementation
+
+Partner for BPaaS
+30%
+
+Average Operational Cost Savings
+50%
+
+Faster Implementation and System Upgrades
+Our leaders
+Meet the team
+
+At the forefront of digital transformation for healthcare payers, this is the team disrupting the industry - and in record time.
+UST HealthProof CEO Kevin Adams
+
+Kevin Adams
+
+CEO
+Meet Kevin
+UST HealthProof President Raj Sundar
+
+Raj Sundar
+
+President
+Meet Raj
+4 people
+Join our Team
+Explore Careers with UST HealthProof
+
+We believe that healthy health plans = healthy people. That's why we're on a mission to put the health back in health insurance. If you want to help transform the industry, then you are in the right place. Won’t you join us?
+View Open Jobs
+Two People on Thier Phone
+Let's talk!
+Schedule a complimentary operations assessment
+Contact us
+UST logo image
+Stay in the know
+Follow UST HealthProof to hear more about what we’re thinking and where you can find us.
+
+    What we do
+    Industries
+    Our approach
+    Innovation ecosystem
+
+    Locations
+    Americas
+    EMEA
+    India
+    APAC
+    View all
+
+    Careers
+    Explore opportunities
+    Legal Notice
+    Contact us
+
+We use cookies to provide you with the best experience of this website. To accept cookies continues browsing as normal or read how to decline them in our cookie policy. Please also see our privacy policy.
+
+
+logo
+
+    Services
+
+    Solutions
+
+    Resources
+
+    Company
+
+    Contact Us
+    SPEAK WITH AN EXPERT
+    En
+
+Managing your future with cloud-native security operations
+
+CyberProof empowers global enterprises to anticipate, adapt, and respond to cyber threats efficiently as they transition to cloudnative environments with advanced Managed Detection & Response services.
+Speak with an expert
+RECOGNIZED AS INDUSTRY LEADERS
+WHAT WE DO
+Mitigating risk through innovative
+technology and expert analysts
+
+Staying on top of today's continuously evolving cybersecurity threats can feel virtually impossible. Even more so while transitioning to hybrid or cloud-native environments.
+
+At CyberProof, we provide a wide range of advanced MDR services to keep your enterprise protected from increasingly sophisticated and aggressive cyberattacks — while continuously improving your operational efficiency
+cyberproof values
+Full transparency into all SOC activities
+
+Enjoy full visibility into all activities carried out by both our analysts and your teams through our innovative and collaborative CyberProof Defense Center (CDC) platform.
+cyberproof values
+Real-time guidance and remediation
+
+Our CDC platform’s ChatOps module allows you to get real-time support – in line with clearly defined playbooks – from expert human analysts.
+cyberproof values
+Cloudnative and hybrid deployment
+
+Experience greater operational efficiency by leveraging cloud-native tools and automations that accelerate your detection and response times.
+cyberproof values
+Reduced risk and reduced costs
+
+Increase threat landscape visibility through our combination of advanced technology, automations, and expert human analysts.
+case studies
+Proudly delivering business-critical results
+80%
+
+The percentage of L1 SOC activities that were automated for an international logistics company.
+Read the case study
+90%
+
+Increase in visibility into threats, vulnerabilities, and environments for a Banking & Financial Services organization.
+Read the case study
+1+ TB
+
+Of data processed per day for a leading industrial supplies company.
+Read the case study
+HOW WE CAN HELP YOU
+Fast, transparent, and cloudnative
+security operations and services
+
+Using an innovative combination of expert human analysts, automations, and our virtual bot SeeMo, CyberProof enables your enterprise to detect and respond to ever-evolving threats in real time. All services are orchestrated and delivered through our CyberProof Defense Center platform, which gives you full transparency into all our cybersecurity activities.
+Explore how you can protect your enterprise
+as you transition to the cloud.
+speak with an expert
+OUR CLOUD PARTNERSHIPS
+Building smarter, cloud-native security operations
+
+CyberProof is a Google Cloud Partner, a member of the Microsoft Intelligent Security Association (MISA), and we’ve been recognized by Microsoft for our Threat Protection and Cloud Security specialization services. Our Managed XDR service is available with Google Chronicle and Microsoft Azure.
+LEARN MORE
+WHO WE ARE
+CyberProof with UST – transforming global enterprises together
+
+The world’s largest enterprises trust CyberProof and UST to create and maintain secure digital ecosystems for boundless impact. Enabling you to succeed today, and well into the future.
+Learn More
+OUR PEOPLE
+Global teams. Global reach. United by one mission.
+
+Though our teams are spread across multiple continents, we all share one mission: to go beyond current industry standards by continuously improving your cybersecurity operations.
+Learn More
+NEWS AND RESOURCES
+What’s on at CyberProof
+Reports
+
+Cyber Defenders Playbook 2023
+eBooks
+
+The Definitive Guide to MDR Services
+eBooks
+
+Top Malware Trends to Watch in 2023
+Speak with a cybersecurity expert
+Speak with an expert
+
+Explore how CyberProof can help you anticipate, prevent, and mitigate ever-evolving cyberattacks in hybrid and cloud-native environments.
+SPEAK WITH AN EXPERT
+
+    Services
+        Managed Detection & Response
+        Managed XDR for Microsoft
+        Advanced Threat Hunting
+        OT/IoT Security Monitoring
+        Security Platform Management
+        Tailored Threat Intel
+        Use Case Engineering
+        Vulnerability Management
+        Penetration Testing
+    Solutions
+        Rationalize Security Spend
+        Threat Coverage Gaps
+        Security Skill Shortage
+        AI and Innovation
+        Optimize Log Collection
+        Migrate to Cloud-Native
+    Resources
+        Blog
+        Videos
+        Infographics
+        Datasheets
+        Webinars
+        Reports
+        eBooks
+        Case Studies
+        Cyber 101
+        Documentation
+        Threat Alerts
+        Resources Portal
+    Company
+        About Us
+        Partners
+        Events
+        In the News
+        Careers
+        CyberProof Cares
+        Contact Us
+    SPEAK WITH AN EXPERT
+
+Our newsletter is only one click away!
+
+    I agree to receive other communications from CyberProof. I can unsubscribe from these communications at any time.
+
+logo
+
+© CyberProof — a UST Company. All Rights Reserved
+
+Privacy Policy ISO-27001 Certified
+
+
+
+    Careers
+
+    UST custom logo image
+    Overview
+    Explore
+    Benefits
+    The Platform
+    Facts & Figures
+    Resources
+
+    UST custom logo image
+    Overview
+    Explore
+    Benefits
+    The Platform
+    Facts & Figures
+    Resources
+
+Overview
+Streamline your business processes to focus on what matters
+
+UST SmartOps is an AI-powered Cognitive Automation Platform that holistically learns and reimagines your business processes while intelligently digitizing and compressing manual workflows. This empowers your people to focus on the opportunities with the highest business impact.
+
+
+
+Our technology works seamlessly across business and IT Operations including: helpdesks and onboarding tools whether to serve customers or employees, procurement and supply chain management from tracking shipments to invoice payment, document understanding for contracts, compliance, or reading sales manager notes. The largest companies in the world partner with UST to support even niche industry processes like personal, casualty, and FNOL claims for insurance, benefit plans for healthcare and small business loans.
+Learn more
+Contact us
+Explore
+Re-imagine your business processes
+
+UST SmartOps is an AI-powered Cognitive Automation Platform that holistically learns and reimagines your business processes while intelligently digitizing and compressing manual workflows. This empowers your people to focus on the opportunities with the highest business impact.
+icon
+
+Boost your operations efficiency with Intelligent Document Processing.
+View Webinar…
+icon
+
+ISG Research explains how UST SmartOps has helped various companies reimagine their business processes.
+Read Report…
+icon
+
+UST SmartOps unlocks your company's human ingenuity.
+
+
+
+
+See how…
+icon
+
+UST SmartOps transforms how companies pay their bills.
+See how…
+Real-world benefits
+UST SmartOps delivers results across business and IT operations
+icon
+Healthcare
+
+Predictive models help auditor indentify discrepancies resulting in 92% savings in claims and audit effort.
+
+
+icon
+Retail
+
+Seamlessly integrate all aspects of the procurement process resuling in 25% cost reduction in supply chain operations.
+
+
+icon
+Insurance
+
+$50-300 Savings Per Converted Lead.
+
+
+
+
+icon
+Supply Chain
+
+80% in supply chain operational cost and process data 4x faster.
+
+
+
+
+icon
+
+Financial Services
+
+72% reduction in customer onboarding time and 33% reduction in onboarding costs.
+icon
+Contract Management
+
+80% reduction in total manual effort and elimiinate 100% of human errors managing complex documents.
+icon
+
+IT Operations
+
+Reduction of 21% in the effort required to monitor infrastructure by combining the best of AI with process automation.
+icon
+
+Auto Claims Management
+
+70% reduction in claim processing time by leveraging our AI, intelligent document and  natural language processing.
+icon
+
+Small Business Loans
+
+80% reduction in loan processing time for small business loans.
+
+
+The Platform
+AI algorithms
+Contextual voice analysis
+Intelligent conversations
+Intelligent document processing
+Computer vision
+Intelligent monitoring
+Holistic business analytics
+End-to-end orchestration
+Native and 3rd party RPA
+AI is our DNA
+
+AI is woven into the fabric of UST SmartOps. AI, machine learning, and NLP form the basis for many UST SmartOps proprietary pre-configured algorithms. Additional algorithms can be developed as needed using the embedded AI lifecycle management platform.
+
+
+
+This agility ensures that the system's capabilities continue to evolve over the lifetime of the systems and maximize return on investment (ROI) while minimizing the total cost of ownership (TCO.)
+Contextual voice analysis
+
+UST SmartOps provides the ability to apply AI technology to process and analyze recorded voice data, not merely transcribing the recording but identifying the different voices heard. The spoken words are grouped by the speaker and placed on a timeline. SmartOps uses Natural Language Processing (NLP) to extract critical information (including the correct context) from the recording. This information ensures that customer interactions comply with specific regulations or identify opportunities for training to enhance performance.
+Conduct AI-enabled interactive conversations
+
+Customers, partners, and employees initiate conversations using a wide variety of mechanisms. UST SmartOps understands information arriving via various information channels, including phone (voice), SMS (text), email, browser-based chatbots, or even virtual assistants such as Alexa or Siri. These interactions can be interactive, where a bi-directional conversation identifies a specific business activity that needs to occur. The input channel need not be a human-originated request but may also respond to a request from another information system, such as an IT Support ticketing system.
+
+
+
+By seamlessly integrating manual and automated tasks, UST SmartOps ensures that processes get smarter through machine learning and enable your people to concentrate on those tasks that add the most business value.
+Actionable insights from structured / semi-structured / unstructured data
+
+UST SmartVision, the Intelligent Document Processing capability of the UST SmartOps platform, transforms the data within structured, semi-structured, and unstructured documents into data-driven actionable insights. These insights are generated leveraging advanced AI algorithms and technologies, including Computer Vision, Natural Language Processing (NLP), and machine/deep learning, and can drive impactful business outcomes. SmartVision offers multilingual data extraction and Straight Through Processing to reduce overall document processing time. It also provides Document Understanding Analytics, which helps measure the ROI from your IDP initiative.
+Contextual document analysis via computer vision
+
+UST SmartOps not only processes structured documents, e.g., invoices, but is also capable of analyzing more complex documents, e.g., legal contracts, where the context of the information is as important as the text itself. UST SmartOps utilizes Natural Language Processing (NLP) to extract the informational context, i.e., not just what the data is but also what it means.
+
+
+
+For example, a real estate leasing agreement will contain many different dates and timeframes. By analyzing the entire text of the agreement, UST SmartOps can determine dates and time frames relating to; the beginning of the lease, the duration of the lease and the Opt-out/Opt-in deadlines.
+
+
+
+This ability to comprehend large and complex documents can minimize errors and reduce the costs of preparing and modifying these types of business records.
+Intelligent monitoring via a single pane of glass
+
+The increasing complexity of IT architecture and its critical role in maintaining business operations has resulted in the monitoring of this landscape transforming into a mission-critical business activity. UST SmartOps provides a single pane of glass to monitor all IT infrastructure; software applications, hardware, and even IoT-enabled devices.
+
+
+
+IoT has led to a dramatic increase in the volume of information generated and the monitoring required. AI-enabled monitoring can react automatically to events and preempt them by recognizing patterns in the changing data, recommending, or even taking action to minimize the issue's impact before it becomes a more severe problem.
+Manage processes via a single pane of glass
+
+UST SmartOps collects comprehensive process execution metrics. A single pane of glass displaying the entire process's performance. UST SmartOps also exploit its AI capabilities to autonomously invoke business actions in response to this rapidly changing business information.
+
+
+
+UST SmartOps analytics can also include data from external systems, e.g., ERP, provide and complete, aggregated view of the business processes under management. For deployments with an existing reporting infrastructure, UST SmartOps seamlessly integrates into 3rd party data analytics platforms.
+Manage your processes from one end to the other
+
+The execution of business processes includes tasks carried out by people, applications, and IoT–enabled devices. UST SmartOps provides the holistic management of the entire process, coordinating all of these different moving parts to create processes that, though AI, think for themselves.
+
+
+
+By seamlessly integrating manual and automated tasks, UST SmartOps ensures that processes get smarter through machine learning and enable your people to concentrate on those tasks that add the most business value.
+Enrich RPA with intelligent automation
+
+Only 7 percent of companies have progressed into enriching their robotic process automation (RPA) with intelligent automation, according to ISG Research. The UST SmartOps intelligent automation platform enables organizations to take that next step.
+
+
+
+UST SmartOps seamlessly integrates with existing RPA investments while also providing a native RPA capability. This capability ensures that your current investment is protected while delivering maximum flexibility for future deployments
+Key Resources
+How UST SmartOps enables organizations to reimagine their business processes
+Facts & Figures
+The truth about digital transformation
+21%
+
+of companies believe they have completed their digital transformation
+70%
+
+of digital transformation initiatives fail
+93%
+
+of companies fail to enrich their RPA with Intelligent Automation
+45%
+
+of companies are increasing digital transformation spending
+Resources
+Learn how UST SmartOps can accelerate your digital transformation journey
+Events
+Webinar
+Transform your business with platform-powered prof. services
+This webinar examines how your business can be transformed through a smart augmented, outcome-based services model.
+Webinar
+Boost Your Operations Efficiency with IDP
+IDP’s incorporation of AI-based technologies has transformed Document Capture.
+Webinar
+COVID-19: Roadmap For Intelligent Automation
+The webinar explains the five work personas that drive knowledge and administrative work for the new normal.
+Webinar
+Reimagining IT Operations with Cognitive Computing
+What are the challenges to your IP operations in adopting intelligent automation?
+Insights
+Insights
+How to Capitalize on the Benefits of Robotic Process Automation
+RPA on its own is a relatively limited solution: it's pure automation, without the support of intelligent oversight.
+Insights
+3 Tips to Kickstart Automation Projects in Financial Operations
+To manage growing responsibilities and keep up with the competition, automation is key. The results speak for themselves.
+Insights
+Reimagining Modern IT Operations with Cognitive Computing
+It's time to reimagine how you approach agile IT operations using cognitive computing.
+Insights
+3 Reasons Your Business Needs Automated Document Processing
+Automated document processing may not be the most thrilling 3 words you’ve ever heard, but may be the most important.
+Two People on Thier Phone
+Let's talk!
+Schedule a chat with an intelligent automation expert
+Contact us
+UST logo image
+Stay in the know
+Sign up to hear more about what we're thinking and where you can find us.
+
+    What we do
+    Industries
+    Our approach
+    Innovation ecosystem
+
+    Locations
+    Americas
+    EMEA
+    APAC
+    View all
+
+    About us
+    Who we are
+    News
+    Events
+    Social commitment
+    Leadership team
+
+    Careers
+    Explore opportunities
+    Legal Notice
+    Contact us
+
+We use cookies to provide you with the best experience of this website. To accept cookies continues browsing as normal or read how to decline them in our cookie policy. Please also see our privacy policy.
+
+
+
+    Careers
+
+UST logo image
+
+    Overview
+    Productivity Platform
+    Key features
+    Key Resources
+
+    Overview
+    Productivity Platform
+    Key features
+    Key Resources
+
+Overview
+Accelerate to innovate
+
+Leverage UST cloud platforms and platform-led design services to accelerate your digital transformation journey, unlock innovation, and turbocharge your speed to market. The road to faster development begins with the right framework and tools to orchestrate and automate continuous releases and continuous delivery. Implementing reusable architectures built on microservices reduces complexity and increases flexibility to scale.
+
+
+
+Our teams work side by side with you from design to development to deployment helping you transform your organization to be more lean and agile through DevOps, DevSecOps, or SRE best practices.
+1
+Reduce time wasted on rote activities
+2
+Gain enterprise application delivery visibility
+3
+Mitigate siloed engineering processes and data
+4
+Attain business and operational efficiencies
+Enterprise Cloud Platform Engineering
+Learn about UST PACE
+
+Trusted by top enterprise organizations, UST PACE orchestrates teams’ DevOps tool stack to shift security and quality left and catalyze better development. Putting process to code and adding clarity across the entire software development lifecycle, UST PACE helps enterprise engineering teams build quality faster.
+
+
+
+UST PACE works with your tools and on your cloud, expertly configured by the UST DevSecOps team to ensure value is seen on day one. Realize true CI/CD automation, security posture improvements, increased code robustness and quality while speeding the development process and enforcing agile enterprise standards.
+Orchestrate the enterprise
+
+CI, CD, & GitOps, templatized pipelines, portfolio health and visibility, security posture improvements, DevOps tool governance, and more.
+icon
+
+Velocity to-go-live
+
+Transform your code culture and increase your development velocity with templatized pipelines, portfolio health scoring, automated ticket creation, and more.
+icon
+
+Governance lockbox
+
+Stop configuration creep across development teams, projects and pipelines with UST PACE’s enterprise configuration control center that makes DevOps compliance simple and automated.
+icon
+
+Inward-out security posture
+
+Shift your AppSec posture left with a library of security compliant templates developers can choose from and automatic application health scoring that prioritizes templates and workflow updates to.
+Your tools, your environment
+
+UST PACE works with your tools, CI, CD platforms, repositories, and Agile process to standardize data for reliable and complete DevOps visibility. Say goodbye to tool updates, configuration changes and integrations shifts breaking visibility. Here are just a few of the tools we integrate with:
+jira
+bit bucket
+veracode
+jfrog
+service-now
+sql
+jenkins
+jenkins
+git
+clickhouse
+bamboo
+bamboo
+a group of people
+Let's talk
+
+Connect with one of UST DevOps experts and find out how UST PACE can make platform engineering possible for your organization.
+Schedule a demo
+Key Resources
+Learn how UST can help you accelerate to innovate
+Whitepaper
+How application modernization future-proofs organizations
+
+Through modernization, you can drive agility, improve user experience, increase flexibility and enhance security.
+Insights
+8 Value -Sustaining Principles to Power a Digital Agility Transformation Strategy
+
+In response to these blockers, we’ve adopted a set of key principles for designing transformation programs that can rapidly learn and adapt, cultivate a culture of embracing change, and sustain the energy/momentum necessary to ensure significant value realization.
+Case Study
+End to end delivery pipeline transparency accelerates developer productivity
+
+Through UST PACE, managers were able to track applications more efficiently in a shared environment.
+EBOOK
+How cloud transformation and application modernization drive digital-first business strategy
+
+Organizations are moving to the cloud faster than ever before. Here are three ways to enable a successful digital-first strategy.
+UST logo image
+Stay in the know
+Sign up to hear more about what we're thinking and where you can find us.
+
+    What we do
+    Industries
+    Our approach
+    Innovation ecosystem
+
+    Locations
+    Americas
+    EMEA
+    APAC
+    View all
+
+    About us
+    Who we are
+    News
+    Events
+    Social commitment
+    Leadership team
+
+    Careers
+    Explore opportunities
+    Legal Notice
+    Contact us
+
+We use cookies to provide you with the best experience of this website. To accept cookies continues browsing as normal or read how to decline them in our cookie policy. Please also see our privacy policy.
+
+
+
+    Careers
+
+    UST custom logo image
+    Overview
+    solutions
+    THE PLATFORM
+    Events
+    Pricing Models
+
+    UST custom logo image
+    Overview
+    solutions
+    THE PLATFORM
+    Events
+    Pricing Models
+
+Overview
+Insights at Warp Speed using XCL with UST IQ
+
+Limitations of ETL & ELT
+
+
+
+ETL is structured but limiting, and ELT can easily turn your data lake into a data swamp. These approaches have in common the first step, Extraction, i.e., copying the data from its current location so you can work on it. This is very time-consuming and expensive.
+
+
+
+eXplore. Choose, Load
+
+
+
+A new approach is required that empowers users to eXplore data where it resides, Choose which data they want to work with, and then Load it for analysis. This XCL represents a “Shift-Left” Data Pipeline paradigm bringing all users who wish to interact with data and derive faster, relevant insights much closer to the data and insights they are striving to derive.
+
+
+
+Insights at Warp Speed
+
+
+
+UST IQ enables organizations to explore their data in situ, delivering insights at warp speed! The UST IQ platform provides direct access to the data where it resides and avoids the creation of data swamps. So whether you have a Data Lake, Fabric, or Mesh, learn how to XCL and accelerate your data’s time to value!
+Architecture-Diagram
+Learn more
+UST IQ helps organizations gain insights at warp speed
+icon
+
+Supply Chain
+
+How a 130-year-old publishing company gained new insight into its sales process.
+Learn more
+icon
+
+Retail (Food & Beverage)
+
+AI-based video analytics for the Quick Serve Restaurant industry.
+Learn more
+icon
+
+Business Intelligence Services
+
+How a leading global provider of business decisioning data and analytics created a platform that could be extended for use by their customers.
+Learn more
+Solutions
+Delivery data democratization across industries
+
+Knowledge is power. Realizing the true potential of an Advanced Metering Infrastructure (AMI) solution requires leveraging the increasing volume and velocity of the data generated by the rapidly increasing penetration of Smart Meters, which is estimated to reach 90% by the end of the decade.
+
+At UST, we leveraged our experience building hyper-scaled data platforms to develop UST IQ and applied it to the unique challenges of AMI Analytics.
+
+UST IQ for AMI Analytics automates the data engineering pipeline from ingestion to insights. As a result, AMI business operations can focus on critical decision-making and not spend time managing the underlying IT infrastructure.
+Learn more
+Download brochure
+Selecting the right platform
+Data challenges
+
+UST address these data issues with the UST IQ platform
+Learn more
+The Platform
+UST IQ
+
+We have lowered the barrier to entry to explore, ingest, curate, analyze, deliver and visualize data to generate fresh insights at Big Data scale and deliver better operational outcomes.
+Data Explorer
+Ingest
+Fire
+Qubz
+Xpresso
+Insights Studio
+
+Data Explorer is purpose built to address a need we often see overlooked. The ability to perform exploratory data analysis prior to developing data pipelines. Building and hydrating a data lake or a data warehouse, without understanding the need for the specific data being ingested results in a data swamp.
+
+
+
+By being able to explore data across relational and non-relational data sources using ANSI standard SQL, without moving the data, provides data analysts and data engineers, an ability to make informed decisions in designing analytics use cases, and data pipelines.
+
+Ingest facilitates the rapid transfer of data from source to target. Once you have identified the data that you need, you want to acquire it in the lake house for further processing. Ingest, powered by an MPP architecture, can transfer large volumes between source and target in minutes, compared to hours and days. With a built-in integration with Data Explorer, Ingest can also perform data transformation during migration.
+
+Fire is a no-code IDE, for the development of Spark based workflows. With over 350 processors, and a drag-drop interface, Fire facilitates the development of very complex Workflows. A unique code processor allows for developing highly custom applications.
+
+Qubz leverages the power of precompute and multidimensional indexes, to enable interactive analytics over petabytes of data. The general paradigm of doing use case specific ETL to power analytics can be eliminated. Qubz is also extremely cost efficient and is a great addition to cloud-native warehouses, providing for cost efficiency and performance.
+
+Xpresso is our enterprise AI and ML, application life cycle management platform. Xpresso provides an integrated set of frameworks and accelerators to help data scientists build cognitive solutions.
+
+Insights Studio is a web-based business intelligence and data visualization tool that allows users to leverage standard SQL and to develop and share custom dashboards.
+Events
+Data Talks
+
+Data Talks is UST IQ's thought leadership series of discussions where we invite industry leaders and experts to a roundtable forum to examine the critical issues facing today's IT organizations.
+Register
+Flexible Pricing Models
+
+In order to unlock your potential, UST has adopted pricing strategies that fit your business needs. UST will help your business identify and implement the right innovative pricing strategies. We will work with your teams to conduct a comprehensive assessment of your pricing strategies aligned with your business objectives.
+
+License
+
+    Customer licenses our products and owns and manages deployment.
+    UST provides deployment and management support​.
+    Custom support teams and models.
+
+Managed service
+
+    UST manages deployment, on-premises or on the customer’s cloud of choice (customer’s cloud account).
+    Pricing depends on modules consumed and cluster size.
+    Integrations and application development priced based on effort.
+
+Managed SaaS
+
+    Subscription based pricing depending on the cluster size and modules consumed.
+    UST will review customer’s functional and non-functional requirements, recommend compute and storage capacity and price accordingly.
+    Deployed on UST’s cloud account.
+
+Two People on Thier Phone
+Let's talk!
+Schedule a chat with an expert
+Contact us
+UST logo image
+Stay in the know
+Sign up to hear more about what we're thinking and where you can find us.
+
+    What we do
+    Industries
+    Our approach
+    Innovation ecosystem
+
+    Locations
+    Americas
+    EMEA
+    APAC
+    View all
+
+    About us
+    Who we are
+    News
+    Events
+    Social commitment
+    Leadership team
+
+    Careers
+    Explore opportunities
+    Legal Notice
+    Contact us
+
+We use cookies to provide you with the best experience of this website. To accept cookies continues browsing as normal or read how to decline them in our cookie policy. Please also see our privacy policy.
